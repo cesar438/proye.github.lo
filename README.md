@@ -1,2 +1,2 @@
-# proye.github.lo
+# proye.github.io
 mi primer pagina 
